@@ -1,0 +1,14 @@
+{
+  "name": "iterate-and-apply",
+  "version": "1.0.0",
+  "description": "Iterate and apply function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "helperfunction"
+  ],
+  "author": "Franz Gollhammer",
+  "license": "ISC"
+}
